@@ -36,7 +36,7 @@ https://www.football-data.org/. Это API содержит ограничени
 
 # Процесс разработки
 - [x] Прототипирование: `SoccerStat.epgz` (Pencil)
-- [ ] Дизайн
+- [x] Дизайн: `SoccerStat.fig` (Figma)
 - [x] Выбор среды: Create React App  
 - [ ] Размещение конфигурации отдельно
 - [ ] Использование linter-а и Prettier
